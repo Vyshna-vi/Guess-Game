@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.main{
+    width: 500px;
+    height: 500px;
+    border: 1px ridge black;
+    box-shadow: rgba(89, 198, 237, 0.923) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;;
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    background-image: url(https://media.istockphoto.com/id/838218772/photo/wooden-english-letters-background.jpg?s=612x612&w=0&k=20&c=Bfn_jkxofJqg26tO3xkZqqI7ut9x93j5z0oo4Bdv0Is=);
+    background-size: 100% 100%;
+}
+.child{
+    margin-top: 50px;
+}
+.para1{
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Nerko One', cursive;
+}
+.head{
+    margin-top: 50px;
+    font-weight: 800;
+    font-family: 'Abril Fatface', cursive;
+    color:black;
+}
+.para2{
+    font-family: 'Teko', sans-serif;
+    margin-left: 60px;
+}
+.btn2{
+    margin-right: 330px;
+}
+input{
+    font-size: 25px;
+}
+
+
+
