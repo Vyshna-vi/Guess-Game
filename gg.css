@@ -2,6 +2,8 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 80px;
+    background-image: url(https://media.istockphoto.com/id/838218772/photo/wooden-english-letters-background.jpg?s=612x612&w=0&k=20&c=Bfn_jkxofJqg26tO3xkZqqI7ut9x93j5z0oo4Bdv0Is=);
+    background-size: 100% 100%;
 }
 .main{
     width: 500px;
@@ -29,16 +31,35 @@ body{
     font-family: 'Abril Fatface', cursive;
     color:black;
 }
-.para2{
+#para2{
     font-family: 'Teko', sans-serif;
-    margin-left: 60px;
+    margin-left: 55px;
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
-.btn2{
+#para3{
+    font-family: 'Teko', sans-serif;
+    margin-left: 55px;
+     
+}
+#btn2{
     margin-right: 330px;
+}
+.btn{
+    background-color: #76ddeb;
+    color: rgb(5, 5, 122);
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 900;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;    
 }
 input{
     font-size: 25px;
 }
+
 
 
 
